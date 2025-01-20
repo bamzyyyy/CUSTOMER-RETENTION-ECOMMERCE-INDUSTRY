@@ -4,32 +4,6 @@
   <h1><b>CUSTOMER-RETENTION-ECOMMERCE-INDUSTRY </b></h1>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-
-# 📗 Table of Contents
-
-- [📗 Table of Contents](#-table-of-contents)
-- Overview
-- [🛠 Built With ](#-built-with-)
-- [Tech Stack ](#tech-stack-)
-- Packages and Libraries
-- Cleaning The Data
-- Exploratory Data Analysis
-- Visualizations
-- Analysis
-- Findings
-- [Key Insights ](#key-insights-)
-- [💻 Getting Started ](#-getting-started-)
-- [Prerequisites](#prerequisites)
-- [Setup](#setup)
-- [Install](#install)
-- [Usage](#usage)
-- [👥 Authors ](#-authors-)
-- [🔭 Future Features ](#-future-features-)
-- [🤝 Contributing ](#-contributing-)
-- [⭐️ Show your support ](#️-show-your-support-)
-- [🙏 Acknowledgments ](#-acknowledgments-)
-- [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
