@@ -1,13 +1,9 @@
-#<a name="readme-top"></a>
+<a name="readme-top"></a>
 
 <div align="center">
   <h1><b>CUSTOMER-RETENTION-ECOMMERCE-INDUSTRY </b></h1>
 </div>
 
-
-<!-- PROJECT DESCRIPTION -->
-
-#  CUSTOMER-RETENTION-ECOMMERCE-INDUSTRY <a name="about-project"></a>
 
 ## Overview 
 
